@@ -1,2 +1,3 @@
 hello there, this is the text file :)
 hi this is line 2
+This is the fourth line
